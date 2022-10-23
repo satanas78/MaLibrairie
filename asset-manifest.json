@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MaLibrairie/static/css/main.b74b058b.chunk.css",
-    "main.js": "/MaLibrairie/static/js/main.1fa979ef.chunk.js",
-    "main.js.map": "/MaLibrairie/static/js/main.1fa979ef.chunk.js.map",
+    "main.css": "/MaLibrairie/static/css/main.0f7d89e8.chunk.css",
+    "main.js": "/MaLibrairie/static/js/main.b69d1661.chunk.js",
+    "main.js.map": "/MaLibrairie/static/js/main.b69d1661.chunk.js.map",
     "runtime-main.js": "/MaLibrairie/static/js/runtime-main.88879803.js",
     "runtime-main.js.map": "/MaLibrairie/static/js/runtime-main.88879803.js.map",
-    "static/js/2.bcaaf3b5.chunk.js": "/MaLibrairie/static/js/2.bcaaf3b5.chunk.js",
-    "static/js/2.bcaaf3b5.chunk.js.map": "/MaLibrairie/static/js/2.bcaaf3b5.chunk.js.map",
+    "static/js/2.88e4e0f5.chunk.js": "/MaLibrairie/static/js/2.88e4e0f5.chunk.js",
+    "static/js/2.88e4e0f5.chunk.js.map": "/MaLibrairie/static/js/2.88e4e0f5.chunk.js.map",
     "index.html": "/MaLibrairie/index.html",
-    "static/css/main.b74b058b.chunk.css.map": "/MaLibrairie/static/css/main.b74b058b.chunk.css.map",
-    "static/js/2.bcaaf3b5.chunk.js.LICENSE.txt": "/MaLibrairie/static/js/2.bcaaf3b5.chunk.js.LICENSE.txt"
+    "static/css/main.0f7d89e8.chunk.css.map": "/MaLibrairie/static/css/main.0f7d89e8.chunk.css.map",
+    "static/js/2.88e4e0f5.chunk.js.LICENSE.txt": "/MaLibrairie/static/js/2.88e4e0f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.88879803.js",
-    "static/js/2.bcaaf3b5.chunk.js",
-    "static/css/main.b74b058b.chunk.css",
-    "static/js/main.1fa979ef.chunk.js"
+    "static/js/2.88e4e0f5.chunk.js",
+    "static/css/main.0f7d89e8.chunk.css",
+    "static/js/main.b69d1661.chunk.js"
   ]
 }
